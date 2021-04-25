@@ -5,7 +5,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "dev_quiz",
+      "name": "nlw-dev_quiz",
       "request": "launch",
       "type": "dart"
     }

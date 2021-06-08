@@ -1,5 +1,4 @@
 import 'package:devquiz/challenge/challenge_page.dart';
-import 'package:devquiz/challenge/widgets/quiz/quiz_widget.dart';
 import 'package:devquiz/core/core.dart';
 import 'package:devquiz/home/widgets/appBar/app_bar_widget.dart';
 import 'package:devquiz/home/widgets/level_button/level_button_widget.dart';
